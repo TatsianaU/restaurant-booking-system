@@ -112,12 +112,6 @@ python gui.py
 Python 3
 PostgreSQL
 psycopg2
-
-## Скриншоты
-
-![Таблицы в pgAdmin](screenshots/pgadmin_tables.png)
-![Список бронирований](screenshots/bookings_list.png)
-![Проверка доступности](screenshots/check_availability.png)
 tkinter
 python-dotenv
 
